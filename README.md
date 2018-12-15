@@ -64,6 +64,16 @@ alias rvs="cd ~/git/rvstash"
 alias protom="rvs && cd protobuf-models"
 ```
 
+**Apps I download**
+
+* [Spotify](https://www.spotify.com/us/download/other/)
+* [BetterTouchTool](https://folivora.ai/)
+* [Tomato One](http://rinik.net/pomodoro/)
+* [Starleaf](https://www.starleaf.com/downloads/mac/)
+
+**BetterTouchTool Settings**
+
+Go to "Keyboard" and set up all the "Maximize window" direction ones. I use Ctrl-Option-Cmd-<direction> for Left, Right, Down, and add Shift to the front of that for full maximize window. 
 
 
 
