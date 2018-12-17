@@ -70,6 +70,7 @@ alias protom="rvs && cd protobuf-models"
 * [BetterTouchTool](https://folivora.ai/)
 * [Tomato One](http://rinik.net/pomodoro/)
 * [Starleaf](https://www.starleaf.com/downloads/mac/)
+* [Whatsapp](https://www.whatsapp.com/download/)
 
 **BetterTouchTool Settings**
 
