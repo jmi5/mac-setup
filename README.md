@@ -5,7 +5,7 @@ Steps to set up my Mac
 ## Intro
 I recently went through the process of setting up my Mac at work, I thought I would document the steps and technologies that I installed for easier reference next time. 
 
-Last updated: March 2021
+Last updated: March 2021.
 
 
 ## Random
