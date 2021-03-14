@@ -5,14 +5,34 @@ Steps to set up my Mac
 ## Intro
 I recently went through the process of setting up my Mac at work, I thought I would document the steps and technologies that I installed for easier reference next time. 
 
+Last updated: March 2021
+
 **Making keys fast**
 
 * `defaults write -g InitialKeyRepeat -int 10 # normal minimum is 15 (225 ms)`
 * `defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)`
 
+Then restart the computer, per [this gist](https://gist.github.com/hofmannsven/ff21749b0e6afc50da458bebbd9989c5). 
+
 **Homebrew**
 
-Execute `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` (from https://brew.sh/). 
+Execute 
+
+```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"``` 
+
+(from https://brew.sh). 
+
+
+**Uninstalling Chrome**
+
+Follow the instructions here: https://chromeisbad.com/#delete. 
+
+
+**Installing zsh**
+
+Install ZSH from ohmyz.sh
+```sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
+
 
 **fzf**
 
@@ -31,9 +51,9 @@ Run `sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl"
 
 **Sublime themes**
 
-I currently have GravityOne installed. 
+I currently have One Dark installed. 
 
-* Cmd-Shift-P -> "Install Package Manager"
+* Cmd-Shift-P -> "Install Package Control"
 * Then Cmd-Shift-P -> "Package Control: Install Package"
 * Cmd-Shift-P -> "UI: Select Theme" AND then "UI: Select Color Theme" so that both sidebar and text change. 
 
@@ -67,15 +87,14 @@ alias protom="rvs && cd protobuf-models"
 **Apps I download**
 
 * [Spotify](https://www.spotify.com/us/download/other/)
-* [BetterTouchTool](https://folivora.ai/)
+* Magnet for window snapping
 * [Tomato One](http://rinik.net/pomodoro/)
 * [Starleaf](https://www.starleaf.com/downloads/mac/)
 * [Whatsapp](https://www.whatsapp.com/download/)
 
-**BetterTouchTool Settings**
+**Magnet shortcuts**
 
-Go to "Keyboard" and set up all the "Maximize window" direction ones. I use Ctrl-Option-Cmd-<direction> for Left, Right, Down, and add Shift to the front of that for full maximize window. 
-
+Ctrl-Option-<direction> to move windows. 
 
 
 
