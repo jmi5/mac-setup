@@ -16,7 +16,7 @@ Then restart the computer, per [this gist](https://gist.github.com/hofmannsven/f
 
 **Homebrew**
 
-Execute 
+Execute  
 
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"``` 
 
