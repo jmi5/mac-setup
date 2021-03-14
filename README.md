@@ -13,7 +13,7 @@ Last updated: March 2021
 **Making keys fast**
 
 * `defaults write -g InitialKeyRepeat -int 10 # normal minimum is 15 (225 ms)`
-* `defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)`
+* `defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)` 
 
 Then restart the computer, per [this gist](https://gist.github.com/hofmannsven/ff21749b0e6afc50da458bebbd9989c5). 
 
