@@ -103,6 +103,8 @@ Link to themes: https://dev.to/kazup/10-best-sublime-text-themes-in-2018-53j5
 * [Tomato One](http://rinik.net/pomodoro/)
 * [Whatsapp](https://www.whatsapp.com/download/)
 * [Visual Studio Code](https://code.visualstudio.com/download). Type Cmd-Shift-P and install `code` on the PATH. Install Markdown Enhanced Preview as well. 
+* Download [R](https://cran.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/#download). 
+* [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12)
 
 **Magnet shortcuts**
 
