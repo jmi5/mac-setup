@@ -10,6 +10,12 @@ Last updated: March 2021.
 
 ## Random
 
+**Setting up multiple ssh keys**
+
+If you run `rv-josh` and `jmi5` on the same computer, you'll need to follow the instructions in this article https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/
+to set it up correctly.
+
+
 **Making keys fast**
 
 * `defaults write -g InitialKeyRepeat -int 10 # normal minimum is 15 (225 ms)`
